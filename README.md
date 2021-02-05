@@ -14,16 +14,7 @@ Tilt your head to aim your nose at a tile and it will move!
 
 - Links to Sources Provided on Settings Page
 
-**Solve a tile puzzle**
- 
- Tap on a Tile and It Will Slide into the Empty Square.
- Move the tiles into their correct positions to complete the painting.
- 
- Hands Free Play:
- Aim with your nose at the tile you want to move and watch it slide into the empty space.
- Repeat until you've solved the puzzle.
- 
- ### Settings
+ ## Settings
  
  Tap on ⚙️ (Settings Emoji) to Change the Default Behaviors
  - Turn off hands-free play (until you get the hang of it!)
@@ -49,7 +40,19 @@ Tap on the 🎡 (Carousel Emoji) to Select a New Game
 
 ### How It Works
 A Carousel of Images Is Presented on the opening screen/display
-Navigate (move the cursor) by moving your head "aim at a tile with your nose"
+Tap on a Painting to Select It.
+The Puzzle Will Appear, and after a few seconds the tiles will scramble.
+Move the Tiles into Place
+
+**Solve a tile puzzle**
+ 
+ Tap on a Tile and It Will Slide into the Empty Square.
+ Move the tiles into their correct positions to complete the painting.
+ 
+ Hands Free Play:
+ Aim with your nose at the tile you want to move and watch it slide into the empty space.
+ Repeat until you've solved the puzzle.
+ 
 
 ### Hardware Required
 
