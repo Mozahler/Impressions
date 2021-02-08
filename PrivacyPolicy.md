@@ -1,12 +1,8 @@
 ## Privacy Policy
 
+TrueDepth API
+This app makes use of automatically collected information using the device camera and the TrueDepth API provided by Apple. 
+The only use of this information is to track the user’s head and face so that the user can control the tile movement by moving their head. 
+None of the information collected by the TrueDepth API ever leaves the user's device nor is it persistently stored on the device.
+
 **No information is shared in any way to any third party.**
-
-During play, the selfie cameras take a video of the user. 
-The video stream is analyzed to gauge the rotation of the user’s head while playing. 
-This data is used to place a cursor at the spot on the screen it thinks is being looked at and a cursor is drawn using SceneKit and Sprites. 
-The data is not saved to disk (or anywhere else) — it is immediately discarded. 
-Only documented API calls to SceneKit and ARKit are used.
-
-**The video stream is analyzed live and not stored to disk.**
-**The data is never stored in any form and cannot be shared.**
